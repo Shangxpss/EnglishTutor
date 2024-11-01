@@ -48,8 +48,7 @@ The differences between print and digital reading results are partly related to 
 
 But equally important is the mental aspect. Reading researchers have proposed a theory called “shallowing hypothesis (假说)”. **According to this theory, people approach digital texts with a mindset suited to social media,which are often not so serious, and devote less mental effort than when they are reading print.**
 
-**Audio (音频) and video can feel more engaging than text, and **_so_** university teachers increasingly turn to these technologies** — say, assigning an online talk instead of an article by the same person. However, psychologists have demonstrated that when adults read news stories, they remember more of the content than if they listen to or view
-identical pieces.
+**Audio (音频) and video can feel more engaging than text, and **_so_** university teachers increasingly turn to these technologies** — say, assigning an online talk instead of an article by the same person. However, psychologists have demonstrated that when adults read news stories, they remember more of the content than if they listen to or view identical pieces.
 
 Digital texts, audio and video all have educational roles, especially when providing resources not available in print. **However, for maximizing learning where mental focus and reflection are called for, educators shouldn’t assume all media are the same, even when they contain identical words.**
 
