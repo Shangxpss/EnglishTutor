@@ -148,8 +148,7 @@ Andrew Reynolds, a cheerful fellow in his early 30s, pilots Sydney ferryboats fo
 
 “Oh, they’re replacing them with catamarans. Catamarans are faster, but they’re not so elegant, and they’re not fun to pilot. But that’s progress, I guess.”
 
-Everywhere in Sydney these days, change and progress are the watchwords (口号), and traditions are
-increasingly rare. Shirley Fitzgerald, the city’s official historian, told me that in its rush to modernity in the 1970s, **Sydney swept aside much of its past, including many of its finest buildings.** “Sydney is confused about itself,” she said. “We can’t seem to make up our minds whether we want a modern city or a traditional one. It’s a conflict that we aren’t getting any better at resolving (解决).”
+Everywhere in Sydney these days, change and progress are the watchwords (口号), and traditions are increasingly rare. Shirley Fitzgerald, the city’s official historian, told me that in its rush to modernity in the 1970s, **Sydney swept aside much of its past, including many of its finest buildings.** “Sydney is confused about itself,” she said. “We can’t seem to make up our minds whether we want a modern city or a traditional one. It’s a conflict that we aren’t getting any better at resolving (解决).”
 
 On the other hand, being young and old at the same time has its attractions. I considered this when I met a thoughtful young businessman named Anthony. “Many people say that we lack culture in this country,” he told me. “What people forget is that the Italians, when they came to Australia, brought 2000 years of their culture, the Greeks some 3000 years, and the Chinese more still. We’ve got a foundation built on ancient cultures but with a drive and dynamism of a young country. It’s a pretty hard combination to beat.”
 
