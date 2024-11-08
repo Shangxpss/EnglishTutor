@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="rU24WwErNgFDm-pNa31l">
-    <mxGraphModel dx="1687" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4780" dy="2793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-26" value="check object" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="390" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="470" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k2oQ2ceXEFO6LlTjj7zY-28" target="k2oQ2ceXEFO6LlTjj7zY-40">
           <mxGeometry relative="1" as="geometry">
@@ -126,20 +126,15 @@
         </mxCell>
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-60" value="first" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k2oQ2ceXEFO6LlTjj7zY-44">
           <mxGeometry x="0.7524" y="-2" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k2oQ2ceXEFO6LlTjj7zY-42" target="k2oQ2ceXEFO6LlTjj7zY-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="1199" />
-              <mxPoint x="510" y="1030" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-61" value="second" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k2oQ2ceXEFO6LlTjj7zY-55">
           <mxGeometry x="0.4964" y="-1" relative="1" as="geometry">
-            <mxPoint x="11" y="-1" as="offset" />
+            <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k2oQ2ceXEFO6LlTjj7zY-42" target="k2oQ2ceXEFO6LlTjj7zY-56">
@@ -156,8 +151,11 @@
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-43" value="translate first sentence and sencond sentence&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="702.5" y="890" width="270" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="k2oQ2ceXEFO6LlTjj7zY-48" value="judge if the two sentence is reverse or same meaning" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="940" width="300" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-54" value="judge if the two sentence is reverse or same meaning" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="876" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k2oQ2ceXEFO6LlTjj7zY-56" target="k2oQ2ceXEFO6LlTjj7zY-63">
           <mxGeometry relative="1" as="geometry">
@@ -272,14 +270,6 @@
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k2oQ2ceXEFO6LlTjj7zY-89" target="k2oQ2ceXEFO6LlTjj7zY-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k2oQ2ceXEFO6LlTjj7zY-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k2oQ2ceXEFO6LlTjj7zY-89" target="k2oQ2ceXEFO6LlTjj7zY-106">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="260" y="2560" />
-              <mxPoint x="260" y="2950" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-89" value="noun" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="2530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -307,8 +297,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k2oQ2ceXEFO6LlTjj7zY-90" value="look noun around it（last sentence or next sentence）" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="340" y="2530" width="300" height="60" as="geometry" />
+        <mxCell id="k2oQ2ceXEFO6LlTjj7zY-90" value="look noun around it（last sentence or next sentence）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2530" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k2oQ2ceXEFO6LlTjj7zY-92" target="k2oQ2ceXEFO6LlTjj7zY-94">
           <mxGeometry relative="1" as="geometry" />
@@ -323,10 +313,7 @@
           <mxGeometry x="960" y="2570" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k2oQ2ceXEFO6LlTjj7zY-101" value="the passage center" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="2690" width="300" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k2oQ2ceXEFO6LlTjj7zY-106" value="adj is suitable" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="2923" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="2690" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -94,7 +94,7 @@ B. Teachers should produce their own teaching material.
 C. Print texts cannot be entirely replaced in education.  
 D. Education outside the classroom cannot be ignored.
 
-In the race to document the species on Earth before they go extinct, researchers and citizen scientists have collected billions of records. Today, **most records of biodiversity are often in the form of photos, videos, and other digital records.** Though they are useful for detecting shifts in the number and variety of species in an area, a new Stanford study has found that this type of record is not perfect.
+In the race to document the species on Earth before they go extinct, researchers and citizen scientists have collected billions of records. Today, **most records of biodiversity are often in the form of photos, videos, and other digital records. Though they are useful for detecting shifts in the number and variety of species in an area, a new Stanford study has found that this type of record is not perfect.**
 
 “With the rise of technology it is easy for people to make observations of different species with the aid of a mobile application,” said Barnabas Daru, who is lead author of the study and assistant professor of biology in the Stanford School of Humanities and Sciences. “These observations now outnumber the primary data that comes from physical specimens (标本), and since we are increasingly using observational data to investigate how species are responding to global change, I wanted to know: Are they usable?”
 
