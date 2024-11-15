@@ -43,19 +43,19 @@ B. Its staff is too talkative.
 C. It charges for Wi-Fi.
 D. It’s inconveniently located.
 
-By day, Robert Titterton is a lawyer. In his spare on stage beside pianist Maria Raspopova — not as a musician but as her page turner. “I’m not a trained musician, but I’ve learnt to read music so I can help Maria in her, performance.”
+By day, Robert Titterton is a lawyer. In his spare on stage beside pianist Maria Raspopova — not as a musician but as her page turner. **“I’m not a trained musician, but I’ve learnt to read music so I can help Maria in her, performance.”**
 
 Mr Titterton is chairman of the Omega Ensemble but has been the group’s official page turner for the past four years. His job is to sit beside the pianist and turn the pages of the score so the musician doesn’t have to break the flow of sound by doing it themselves. He said he became just as nervous as those playing instruments on stage.
 
-“A lot of skills are needed for the job. You have to make sure you don’t turn two pages at once and make sure you find the repeats in the music when you have to go back to the right spot.” Mr Titterton explained.
+“**A lot of skills are needed for the job.** You have to make sure you don’t turn two pages at once and make sure you find the repeats in the music when you have to go back to the right spot.” Mr Titterton explained.
 
-Being a page turner requires plenty of practice. Some pieces of music can go for 40 minutes and require up to 50 page turns, including back turns for repeat passages. Silent onstage communication is key, and each pianist has their own style of “nodding” to indicate a page turn which they need to practise with their page turner.
+**Being a page turner requires plenty of practice.** Some pieces of music can go for 40 minutes and require up to 50 page turns, including back turns for repeat passages. **Silent onstage communication is key, and each pianist has their own style of “nodding” to indicate a page turn which they need to practise with their page turner.**
 
 But like all performances, there are moments when things go wrong. “I was turning the page to get ready for the next page, but the draft wind from the turn caused the spare pages to fall off the stand,” Mr Titterton said, “Luckily I was able to catch them and put them back.”
 
 Most page turners are piano students or up-and-coming concert pianists, although Ms Raspopova has once asked her husband to help her out on stage.
 
-“My husband is the worst page turner,” she laughed. “He’s interested in the music, feeling every note, and I have to say: ‘Turn, turn!’ “Robert is the best page turner I’ve had in my entire life.”
+“My husband is the worst page turner,” she laughed. **“He’s interested in the music, feeling every note, and I have to say: ‘Turn, turn!’ “Robert is the best page turner I’ve had in my entire life.”**
 
 What should Titterton be able to do to be a page turner?
 
