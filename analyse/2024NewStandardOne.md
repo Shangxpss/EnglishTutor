@@ -149,3 +149,27 @@ A. Review data from certain areas.
 B. Hire experts to check the records.  
 C. Confirm the identity of the users.  
 D. Give guidance to citizen scientists.
+
+I’ve been motivated — and demotivated — by other folks’ achievement s all my life.
+
+When I was a teenager, a neighborhood friend 41C a marathon race. Feeling motivated, I started running 42A , but then two things happened. First, a girl I met one day told me she was 43D for a “super,” referring to a 52.4-mile double marathon. Then, the next day I went on my longest run — 15 miles. To be honest, I 44C it! Between the girl making my 45B seem small and the pure boredom of jogging, I decided that the only 46D I’d ever run again is if a big dog was running after me!
+
+So I 47C cycling. I got a good bike and rode a lot. I 48B of entering cycle races until I flew to San Diego to visit my sister. While she was at work one day, I 49B her bike and went for a ride. The 50A : The roads there went through large valleys where I’d be riding uphill for miles at a time. I’d never faced such 51D . That day, I got 52A by about 100 “local” bikers who were used to such roads. When I got back home, suddenly riding my bike didn’t seem quite as 53D .
+
+I’ve 54B a lot since then. I’ve come to accept that whatever 55C I set for myself, they just have to be my own.
+
+41. A. knew B. held C. won D. quit
+42. A. regularly B. silently C. proudly D. recently
+43. A. asking B. looking C. waiting D. training
+44. A. made B. believed C. hated D. deserved
+45. A. advantage B. achievement C. contribution D. influence
+46. A. way B. risk C. place D. reason
+47. A. gave up B. went on C. turned to D. dealt with
+48. A. heard B. dreamed C. complained D. approved
+49. A. painted B. borrowed C. bought D. parked
+50. A. problem B. secret C. principle D. advice
+51. A. dangers B. events C. opponents D. challenges
+52. A. passed B. convinced C. admired D. stopped
+53. A. reliable B. convenient C. familiar D. appealing
+54. A. traveled B. matured C. missed D. worried
+55. A. limits B. dates C. goals D. tests

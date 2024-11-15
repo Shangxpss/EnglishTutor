@@ -154,3 +154,25 @@ A. To recommend a book on AI.
 B. To give a brief account of AI history.  
 C. To clarify the definition of AI.  
 D. To honor an outstanding AI expert.
+
+When I decided to buy a house in Europe ten years ago, I didn't think too long. I liked traveling in France, but when it came to picking my favorite spot to 21D , Italy was the clear winner.
+
+During my first visit to Italy, I 22B to ask for directions or order in a restaurant. But every time I tried to 23A a sentence of Italian together, the locals smiled at me and 24D my language skills. That encouragement helped me to get through the language 25B . After I made Italy my permanent home, I discovered how 26C Italians are. Neighbors will bring me freshly made cheese and will come to my door to 27A me to close the window in my car when rain is coming. It's these small 28C of kindness that make a new country feel like home.
+
+As a foodie, the way to my heart is through my stomach, and nowhere fuels my 29C quite like Italy. Each town has its own traditional 30B , and every family keeps a recipe passed from one generation to another. Families 31A for big meals on Sundays, birthdays, and whatever other excuses they can 32C . These meals are always 33D by laughter and joy. Whatever 34A life in Italy might have, the problems are 35B once you sit down to a big meal with friends and family.
+
+21. A. study B. rent C. visit D. settle
+22. A. planned B. struggled C. refused D. happened
+23. A. string B. hang C. mix D. match
+24. A. improved B. assessed C. admired D. praised
+25. A. course B. barrier C. area D. test
+26. A. open-minded B. strong-willed C. warm-hearted D. well-informed
+27. A. remind B. allow C. persuade D. order
+28. A. tricks B. promises C. acts D. duties
+29. A. ambition B. success C. appetite D. growth
+30. A. costume B. dish C. symbol D. tale
+31. A. gather B. cheer C. leave D. wait
+32. A. put up with B. stand up for C. come up with D. make up for
+33. A. signaled B. confirmed C. represented D. accompanied
+34. A. disadvantages B. meanings C. surprises D. opportunities
+35. A. created B. forgotten C. understood D. identified

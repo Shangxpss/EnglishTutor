@@ -54,7 +54,7 @@ Goffin’s cockatoos, a kind of small parrot native to Australasia, have been sh
 
 **In humans, babies can put a round shape in a round hole from around one year of age**, but it will be another year before they are able to do the same with less symmetrical (对称的) shapes. This ability to recognize that a shape will need to be turned in a specific direction before it will fit is called an “allocentric frame of reference”. In the experiment, Goffin’s cockatoos were able to select the right tool for the job, in most cases, by visual recognition alone. Where trial-and-error was used, the cockatoos did better than monkeys in similar tests. This indicates that Goffin’s cockatoos do indeed possess an allocentric frame of reference when moving objects in space, similar to two-year-old babies.
 
-The next step, according to the researchers, is to try and work out whether the cockatoos rely entirely on visual clues (线索), or also use a sense of touch in making their shape selections.
+**The next step, according to the researchers, is to try and work out whether the cockatoos rely entirely on visual clues (线索), or also use a sense of touch in making their shape selections.**
 
 How did the cockatoos get the nut from the box in the experiment?
 
@@ -189,3 +189,34 @@ A. A city can be young and old at the same time.
 B. A city built on ancient cultures is more dynamic.  
 C. Modernity is usually achieved at the cost of elegance.  
 D. Compromise should be made between the local and the foreign.
+
+You can tell a lot about a man by how he treats his dogs.
+
+For many years, I enjoyed living with my dogs, Tilly and Chance. Their 21C was nearly enough to keep my loneliness at bay. Nearly. Last year, I started dating, but with 22D . When I first dated Steve, I 23D he had a dog, Molly, and a cat, Flora. While I was 24D that he was an animal lover, I 25B that three dogs were perhaps too many, and my dogs might attack 26A , the cat.
+
+The next week we 27B our dogs together. It was a hot day. When we paused to catch our 28A , Steve got down on one knee. Was he proposing (求婚)? I liked him too, but so 29C ? He poured water from a bottle into his hand and offered it to my dogs. 30D , I began to fall for him.
+
+We 31A to date, though neither of us brought up the future. And then in late November, Tilly had an operation on her 32D . I took the dogs out four times a day, and I worried that Tilly 33B climbing the stairs could reopen the wound. Then Steve 34A his house. All worked 35C . The three dogs formed a pack that, with coaching, 36B Flora’s space; Steve and I formed a good team 37B for Tilly. We made good housemates.
+
+A year later, much to my 38A , this man produced a little box with a ring and proposed to me. He did not kneel (跪) down, nor did I 39C him to. That’s only for giving 40D to the dogs that brought us together.
+
+21. A. ownership B. membership C. companionship D. leadership
+22. A. reservations B. expectations C. confidence D. prejudice
+23. A. feared B. doubted C. hoped D. learned
+24. A. unsatisfied B. amused C. terrified D. thrilled
+25. A. predicted B. worried C. regretted D. insisted
+26. A. Flora B. Chance C. Molly D. Tilly
+27. A. tied B. walked C. bathed D. fed
+28. A. breath B. balance C. attention D. imagination
+29. A. calm B. sure C. soon D. real
+30. A. By the way B. In that case C. By all means D. In that moment
+31. A. continued B. decided C. intended D. pretended
+32. A. eye B. tail C. ear D. leg
+33. A. secretly B. constantly C. eventually D. unwillingly
+34. A. left B. sold C. suggested D. searched
+35. A. late B. hard C. fine D. free
+36. A. emptied B. respected C. occupied D. discovered
+37. A. looking B. caring C. waiting D. calling
+38. A. delight B. credit C. interest D. disadvantage
+39. A. beg B. trust C. need D. aid
+40. A. toys B. awards C. food D. water

@@ -135,3 +135,35 @@ A. It is a short-sighted decision.
 B. It is a success story.  
 C. It benefits manufacturers.  
 D. It upsets customers.
+
+Young children across the globe enjoy playing games of hide and seek. For them, there’s something highly exciting about 21C someone else’s glance and making oneself unable to be seen.
+
+However, we all witness that preschool children are remarkably 22B at hiding. They often cover only their eyes with their hands, leaving the rest of their bodies 23A .
+
+For a long time, this ineffective hiding method was 24D as evidence that children are hopelessly “egocentric” (自我中心的) creatures. But our 25C research results in child developmental psychology 26C that idea.
+
+We brought young children aged 2-4 into our Minds in Development Lab at USC. Each 27B sat down with an adult who covered her own eyes or 28D . We then asked the child if she could 29A or hear the adult. Surprisingly, children replied that they couldn’t. The same 30B happened when the adult covered her own mouth: 31B children said that they couldn’t 32A to her.
+
+A number of 33C ruled out that the children misunderstood what they were being asked. The results were clear: Our young subjects 34A the questions and knew 35D what was asked of them. Their 36A to the questions reflected their true 37B that “I can see you only if you can see me, too.” They simply 38C mutual (相互的) recognition and regard. Our 39D suggest when a child “hides” by putting a blanket over her head, it is not a result of egocentrism. In fact, children consider this method 40D when others
+use it.
+
+21. A. following B. taking C. escaping D. directing
+22. A. clever B. bad C. scared D. quick
+23. A. exposed B. examined C. untouched D. imbalanced
+24. A. supported B. guaranteed C. imagined D. interpreted
+25. A. disappointing B. mixed C. surprising D. desired
+26. A. explained B. confirmed C. contradicted D. tested
+27. A. parent B. child C. researcher D. doctor
+28. A. feet B. nose C. hands D. ears
+29. A. see B. help C. reach D. fool
+30. A. event B. thing C. action D. accident
+31. A. Yet B. Now C. Soon D. Once
+32. A. speak B. listen C. turn D. wave
+33. A. instructions B. descriptions C. experiments D. assumptions
+34. A. comprehended B. predicted C. explored D. ignored
+35. A. partly B. honestly C. vaguely D. exactly
+36. A. responses B. approaches C. contribution D. sensitivity
+37. A. ability B. belief C. identity D. purpose
+38. A. hold back B. relate to C. insist on D. make up
+39. A. limitations B. requirements C. theories D. findings
+40. A. tentative B. impressive C. creative D. effective

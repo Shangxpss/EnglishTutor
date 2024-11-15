@@ -198,3 +198,28 @@ A. Life-Giving Rainforests
 B. The Law of the Jungle
 C. Animals in the Amazon
 D. Weather in Rainforests
+
+WhenJim Grant spotted black smoke coming out of a building on his way to work, he 21B his car to call 911. Then he 22D a U-turn, circling back to take another look.
+
+Pulling up to the building, Grant saw flames（火焰）shooting out of a second-floor window. Not seeing or hearing any fire engines 23C . Grant rushed to a side 24A and ran up the stairs.
+
+On the second floor, he 25B every apartment door. “Get out!” Grant shouted, No one 26C and he assumed that people had already 27D . Reaching the end of the hallway, though, Grant 28C a half-open door. He kicked it wide open,finding a 29A woman in a wheelchair with a little boy and a tiny baby. “Let’s 30C !” he screamed. The woman looked at him in confusion and said something about changing her clothes. Grant didn’t wait,clutching（抓牢）the baby to his chest and 31B the boy alongside, Grant ran down the hallway. When he was 32A outside, the only 33D in sight was a policeman. Grant told him about the 34A and they rushed into the smoky building.
+
+Thanksto them, a family was saved from the fire. Grant and the policeman were
+honored for their 35D .
+
+21.A. drove B. stopped C. reached D. abandoned
+22.A. saw B. made C. missed D. crossed
+23.A. burning B. leaving C. approaching D. waiting
+24.A. entrance B. road C. building D. window
+25.A. locked B. kicked C. counted D. repaired
+26.A. agreed B.cared C. responded D.understood
+27.A. arrived B. returned C. hidden D. escaped
+28.A. skipped B. closed C. noticed D. remembered
+29.A. frightened B. curious C. patient D. grateful
+30.A. turn back B. go up C. get out D. lie down
+31.A. following B. dragging C. examining D. passing
+32.A. safely B. secretly C. suddenly D. previously
+33.A. witness B. guide C. service D. help
+34.A. woman B. door C. car D. baby
+35.A. wisdom B. generosity C. honesty D. courage

@@ -137,3 +137,42 @@ A. Bodies Remodeled for a Life at Sea
 B. Highlanders’ Survival Skills
 C. Basic Methods of Genetic Research
 D. The World’s Best Divers
+
+As s businesswoman, I care deeply about my customers. But like anyone for whom you feel affection,
+41B can also drive you mad. They’ll come rushing in, 42A their handbag’s been stolen. They’ll
+43D that they left it in the changing room, create havoe (混乱) and then 44C it had been in their car all
+the time. They’ll have out half the 45D in the shop, and want the only style you don’t have left in a 46A  
+colour. I do know how upset the shop staff can get, but I try to persuade them to keep 47B .
+
+I remember the first really 48D customer we had at Covent Garden. She was 49B absolutely
+everything, nothing was right and I was rather 50C that she became a “regular”. After a while, she
+51D for the way she behaved at the beginning. She had split up with her husband the week before, was
+living in a flat 52B , and since she’d found it too much to cope with (应对), she’d taken it out on
+53C people.
+
+That taught me a valuable 54A and I pass it on to the people who 55A in the market. Don’t
+take it 56C . If a customer is rude or difficult, just think “Maybe she’s had a row with her husband. Maybe
+her child’s not 57D .” Always water it down and don’t let your ego (自我) get 58B . If you do, you
+won’t be able to 59C it and the whole thing develops into an unpleasant scene and that 60A  
+everyone’s day.
+
+41. A. shopkeepers B. customers C. salespersons D. receptionists
+42. A. saying B. pretending C. guessing D. replying
+43. A. agree B. promise C. imagine D. swear
+44. A. forget B. decide C. discover D. assume
+45. A. foods B. catalogues C. belongings D. goods
+46. A. particular B. different C. matching D. natural
+47. A. fighting B. smiling C. waiting D. changing
+48. A. generous B. polite C. careless D. difficult
+49. A. curious about B. displeased with C. patient with D. uncertain about
+50. A. relaxed B. delighted C. surprised D. embarrassed
+51. A. searched B. argued C. prayed D. apologized
+52. A. by chance B. by herself C. on purpose D. on duty
+53. A. rude B. such C. other D. lonely
+54. A. lesson B. trick C. skill D. trade
+55. A. work B. shop C. meet D. quarrel
+56. A. kindly B. secretly C. personally D. casually
+57. A. ready B. away C. up D. well
+58. A. out of sight B. in the way C. behind the scene D. above the law
+59. A. stress B. expect C. handle D. blame
+60. A. ruins B. makes C. starts D. saves

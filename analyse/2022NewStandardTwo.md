@@ -140,3 +140,27 @@ A. Making use of the findings.
 B. Interviewing the study participants.  
 C. Conducting further research.  
 D. Clarifying the purpose of the study.
+
+Like many young people, Jessica wants to travel the globe. Unlike most of them, this 25-year-old is doing it 21D . She and her husband have spent the last two years traveling the world, stopping everywhere from Paris to Singapore. It might sound like one long, expensive 22C , but the couple has an unusual way to make their travel 23D .
+
+They’re part of a new form of the 24C economy: an online group of house sitters. Throughout their no-cost stays in 25A homes, they feed pets and water plants in the homeowner’s 26D .
+
+It’s not all sightseeing. The two travelers carefully 27A their trips, scheduling their days around the pets that are sometimes difficult to 28D . But house sitting also offers a level of 29B they can’t find in a hotel. “It’s like 30B at a friend’s house,” Jessica says.
+
+The couple has a high 31A rate in getting accepted as house sitters and they always go beyond the homeowner’s 32C . For Jessica, that means 33C plenty of pictures of happy pets, keeping the house 34A and leaving a nice small gift before heading to the next house. “You want to make the homeowner feel that they made the right 35B ,” she says.
+
+21. A. indoors B. online C. single-handed D. full-time
+22. A. game B. service C. vacation D. procedure
+23. A. safe B. busy C. helpful D. affordable
+24. A. local B. private C. sharing D. agricultural
+25. A. strangers’ B. parents’ C. co-workers’ D. neighbors’
+26. A. favor B. defense C. honor D. absence
+27. A. plan B. explain C. compare D. complete
+28. A. buy B. transport C. choose D. please
+29. A. support B. comfort C. control D. attention
+30. A. cooking B. staying C. waiting D. studying
+31. A. success B. survival C. growth D. unemployment
+32. A. budget B. abilities C. expectations D. understanding
+33. A. admiring B. donating C. sending D. borrowing
+34. A. clean B. open C. simple D. empty
+35. A. guess B. decision C. response D. impression

@@ -1,6 +1,6 @@
 Terri Bolton is a dab hand when it comes to DIY (do-it-yourself). **Skilled at putting up shelves and piecing together furniture, she never pays someone else to do a job she can do herself.**
 
-She credits these skills to her late grandfather and builder Derek Lloyd. From the age of six, Terri, now 26,accompanied Derek to work during her school holidays. **A day’s work was rewarded with £ 5 in pocket money.** She says: “I’m sure I wasn’t much of a help to start with painting the rooms and putting down the flooring throughout the house. It took weeks and is was backbreaking work, but I know he was proud of my skills.”
+She credits these skills to her late grandfather and builder Derek Lloyd. From the age of six, Terri, now 26,accompanied Derek to work during her school holidays. **A day’s work was rewarded with £ 5 in pocket money.** She says: “I’m sure I wasn’t much of a help to start with painting the rooms and putting down the flooring throughout the house. It took weeks and it was backbreaking work, but I know he was proud of my skills.”
 
 Terri, who now rents a house with friends in Wandsworth, South West London, **says DIY also saves her from losing any deposit when a tenancy (租期) comes to an end.** She adds: “I’ve moved house many times and I always like to personalise my room and put up pictures. So, **it’s been useful to know how to cover up holes and repaint a room to avoid any charges when I’ve moved out.”**
 
@@ -44,13 +44,13 @@ B. It is getting more time-consuming.
 C. It is turning into a seasonal industry.  
 D. It is gaining popularity among females.
 
-I was about 13 when an uncle gave me a copy of Jostein Gaarder’s Sophie’s World. It was full of ideas that were new to me, so I spent the summer with my head in and out of that book. It spoke to me and brought me into a world of philosophy (哲学).
+I was about 13 when an uncle gave me a copy of Jostein Gaarder’s Sophie’s World. It was full of ideas that were new to me, so I spent the summer with my head in and out of that book. **It spoke to me and brought me into a world of philosophy (哲学).**
 
 That love for philosophy lasted until I got to college. Nothing kills the love for philosophy faster than people who think they understand Foucault, Baudrillard, or Confucius better than you — and then try to explain them.
 
 Eric weiner’s The Socrates Express: In Search of Life Lessons from Dead Philosophers reawakened my love for philosophy. **It is not an explanation but an invitation to think and experience philosophy.**
 
-Weiner starts each chapter with a scene on a train ride between cities and then frames each philosopher’s work in the context (背景) of one thing they can help us do better. The end result is a read in which we learn to wonder like Socrates, see like Thoreau, listen like Schopenhauer, and have no regrets like Nietzsche. This, more than a book about undestanding philosophy, **is a book abour learning to use philosophy to improve a life.**
+Weiner starts each chapter with a scene on a train ride between cities and then frames each philosopher’s work in the context (背景) of one thing they can help us do better. The end result is a read in which we learn to wonder like Socrates, see like Thoreau, listen like Schopenhauer, and have no regrets like Nietzsche. **This, more than a book about understanding philosophy, is a book abour learning to use philosophy to improve a life.**
 
 He makes philosophical thought an appealing exercise that improves the quality of our experiences, and he does so with plenty of humor. Weiner enters into conversation with some of the most important philosophers in history, and he becomes part of that crowd in the process by decoding (解读) their messages and adding his own interpretation.
 
@@ -100,15 +100,15 @@ B. Daring and ambitious.
 C. Serious and hard to follow.  
 D. Humorous and straightforward.
 
-Grizzly bears, which may grow to about 2.5 m long and weigh over 400 kg, occupy a conflicted corner of the American psyche-we revere (敬畏) them even as they give us frightening dreams. Ask the tourists from around the world that flood into Yellowstone National Park what they most hope to see, and their answer is often the same: a grizzly bear.
+**Grizzly bears, which may grow to about 2.5 m long and weigh over 400 kg, occupy a conflicted corner of the American psyche-we revere (敬畏) them even as they give us frightening dreams.** Ask the tourists from around the world that flood into Yellowstone National Park what they most hope to see, and their answer is often the same: a grizzly bear.
 
 “Grizzly bears are re-occupying large areas of their former range,” says bear biologist Chris Servheen. As grizzly bears expand their range into places where they haven’t been seen in a century or more, they’re increasingly being sighted by humans.
 
-The western half of the U.S. was full of grizzlies when Europeans came, with a rough number of 50,000 or more living alongside Native Americans. By the early 1970s, after centuries of cruel and continuous hunting by settlers, 600 to 800 grizzlies remained on a mere 2 percent of their former range in the Northern Rockies. In 1975, grizzlies were listed under the Endangered Species Act.
+The western half of the U.S. was full of grizzlies when Europeans came, with a rough number of 50,000 or more living alongside Native Americans. By the early 1970s, after centuries of cruel and continuous hunting by settlers, 600 to 800 grizzlies remained on a mere 2 percent of their former range in the Northern Rockies. **In 1975, grizzlies were listed under the Endangered Species Act.**
 
-Today, there are about 2,000 or more grizzly bears in the U.S. **Their recovery has been so successful that the U.S. Fish and Wildlife Service has twice attempted to delist grizzlies, which would loosen legal protections and allow them to be hunted. Both efforts were overturned due to lawsuits from **_conservation groups_**. For now, grizzlies remain listed.**
+**Today, there are about 2,000 or more grizzly bears in the U.S.** **Their recovery has been so successful that the U.S. Fish and Wildlife Service has twice attempted to delist grizzlies, which would loosen legal protections and allow them to be hunted. Both efforts were overturned due to lawsuits from **_conservation groups_**. For now, grizzlies remain listed.**
 
-Obviously, if precautions (预防) aren’t taken, grizzlies can become troublesome, sometimes killing farm animals or walking through yards in search of food. If people remove food and attractants from their yards and campsites, grizzlies will typically pass by without trouble. Putting electric fencing around chicken houses and other farm animal quarters is also highly effective at getting grizzlies away. “Our hope is to have a clean, attractant-free place where bears can pass through without learning bad habits,“ says James Jonkel, longtime biologist who manages bears in and around Missoula.
+Obviously, if precautions (预防) aren’t taken, grizzlies can become troublesome, sometimes killing farm animals or walking through yards in search of food. If people remove food and attractants from their yards and campsites, grizzlies will typically pass by without trouble. Putting electric fencing around chicken houses and other farm animal quarters is also highly effective at getting grizzlies away. **“Our hope is to have a clean, attractant-free place where bears can pass through without learning bad habits,“** says James Jonkel, longtime biologist who manages bears in and around Missoula.
 
 How do Americans look at grizzlies?
 
@@ -145,3 +145,41 @@ A. Food should be provided for grizzlies.
 B. People can live in harmony with grizzlies.  
 C. A special path should be built for grizzlies.  
 D. Technology can be introduced to protect grizzlies.
+
+Many years ago, I bought a house in the Garfagnana, where we still go every summer. The first time we
+21D there, we heard the chug chug-chug of a motorbike 22A its way down the hill toward us. It was
+23B called Mario, coming to 24C us a box containing some tomatoes and a bottle of wine. It was a very
+nice 25D for him to make. But when we looked at the tomatoes, we were 26A because they were so
+misshapen: not at all like the nice, round, 27C things you get in a supermarket. And the wine was cloudy, in a
+funny old bottle with no label (标签) on it. These can’t be any 28B , we thought. But we were 29B his
+kindness, so we 30A them.
+
+What we discovered is that it’s 31C to judge what you eat only by its 32A . Those tomatoes had
+33D that reminded me of the ones my uncle used to grow when I was a child. Nowadays supermarket
+tomatoes 34B perfect but taste of water. Nobody’s going to have a 35B memory of those. It’s a surprise
+they haven’t managed to grow square ones so that they can 36D them easily. Mario’s wine may have been
+cloudy and come out of an old bottle, but it was 37A .
+
+It’s good to eat things at the correct time, when they’re 38C , and as close as possible to where they were
+39D . What Mario had 40B us was the taste of the Garfagnana.
+
+21. A. waited B. met C. camped D. stayed
+22. A. making B. searching C. squeezing D. feeling
+23. A. customer B. neighbor C. relative D. passenger
+24. A. lend B. send C. bring D. show
+25. A. choice B. comment C. promise D. gesture
+26. A. worried B. moved C. thrilled D. bored
+27. A. simple B. real C. shiny D. fun
+28. A. more B. good C. new D. easy
+29. A. sympathetic to B. thankful for C. cautious about D. interested in
+30. A. tried B. sold C. returned D. mixed
+31. A. unnecessary B. uncertain C. unwise D. unusual
+32. A. appearance B. quality C. origin D. price
+33. A. size B. shape C. color D. taste
+34. A. smell B. look C. become D. work
+35. A. happy B. vivid C. short D. vague
+36. A. clean B. check C. count D. pack
+37. A. perfect B. useful C. convenient D. familiar
+38. A. on view B. on sale C. in season D. in need
+39. A. finished B. stored C. found D. grown
+40. A. cooked B. given C. bought D. told

@@ -141,3 +141,43 @@ A. Reading: A Source of Knowledge
 B. My Idea about writing
 C. Library: A Haven for the Young
 D. My Love of the Library
+
+It was just after sunrise on a June morning. “Nicolo,” whose real name cannot be 41C to the public
+because of Italy’s privacy laws, 42A working the whole night at a factory in Turin. As he often did, he
+stopped by the “after work auction(拍卖)” 43D by the Italian police where things 44B on the trains
+were sold to the highest bidder. There, among many other things, Nicolo spotted two paintings he thought would
+look 45A above his dining room table. Nicolo and another bidder 46A until Nicolo finally won the
+paintings for $32.
+
+When Nicolo retired and went to live in Sicily, he 47D the paintings with him. He hung them above the
+same table he had 48D from Turin. His son, age 15, who had 49C an art appreciation class, thought that
+there was something 50B about the one with a young girl sitting on a garden chair. It was signed(签名)
+“Bonnato” or so he thought, but when he 51C it, he only found “Bonnard,” a French 52 he had
+never heard of. He bought a book and was 53B to find a picture of the artist Pierre Bonnard sitting on the
+same chair in the same 54D as his father’s painting.
+
+“That’s the garden in our picture,”Nicolo’s son told his father. They 55C learned that the painting they
+56A was called “The Girl with Two Chairs.” They 57D the other painting and learned that it was
+58B Paul Gauguin’s “Still Life of Fruit on a Table with a Small Dog.” The 59C called the Italian
+Culture Ministry; the official confirmed that the paintings were 60B and worth as much as $50 million.
+
+41. A. attached B. allocated C. exposed D. submitted
+42. A. finished B. delayed C. considered D. tried
+43. A. attended B. reserved C. cancelled D. run
+44. A. shown B. found C. kept D. hidden
+45. A. nice B. familiar C. useful D. real
+46. A. battled B. debated C. discussed D. bargain
+47. A. held B. left C. registered D. brought
+48. A. chosen B. received C. ordered D. moved
+49. A. missed B. failed C. taken D. led
+50. A. concrete B. unusual C. unappealing D. natual
+51. A. appreciated B. touched C. researched D. witnessed
+52. A. painter B. designer C. author D. actor
+53. A. expected B. surprised C. anxious D. ready
+54. A. room B. kitchen C. hall D. garden
+55. A. apparently B. confidently C. eventually D. temporarily
+56. A. owned B. borrowed C. sold D. stole
+57. A. collected B. cleaned C. framed D. studied
+58. A. suitably B. actually C. rightly D. specifically
+59. A. girl B. artist C. family D. police
+60. A. copies B. originals C. models D. presents

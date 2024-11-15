@@ -1,12 +1,12 @@
-Every year about 40,000 people attempt to climb Kilimanjaro, the highest mountain in Africa. They 41 with them lots of waste. The 42 might damage the beauty of the place. The glaciers(冰川)are disappearing, changing the 43 of Kilimanjaro.
+Every year about 40,000 people attempt to climb Kilimanjaro, the highest mountain in Africa. They 41D with them lots of waste. The 42C might damage the beauty of the place. The glaciers(冰川)are disappearing, changing the 43C of Kilimanjaro.
 
-Hearing these stories, I’m 44 about the place — other destinations are described as “purer” natural experiences.
+Hearing these stories, I’m 44B about the place — other destinations are described as “purer” natural experiences.
 
-However, I soon 45 that much has changed since the days of disturbing reports of 46 among tons of rubbish. I find a 47 mountain, with toilets at camps and along the paths. The environmental challenges are 48 but the efforts made by the Tanzania National Park Authority seem to be 49 .
+However, I soon 45A that much has changed since the days of disturbing reports of 46C among tons of rubbish. I find a 47D mountain, with toilets at camps and along the paths. The environmental challenges are 48C but the efforts made by the Tanzania National Park Authority seem to be 49A .
 
-The best of a Kilimanjaro 50 , in my opinion, isn’t reaching the top. Mountains are 51 as spiritual places by many cultures. This 52 is especially evident on Kilimanjaro as 53 go through five ecosystems(生态系统)in the space of a few kilometers. At the base is a rainforest. It ends abruptly at 3, 000 meters,54 lands of low growing plants. Further up, the weather 55 — low clouds envelope the mountainsides, which are covered with thick grass. I 56 twelve shades of green from where I stand. Above 4, 000 meters is the highland 57 : gravel(砾石), stones and rocks. 58 you climb into an arctic-like zone with 59 snow and the glaciers that may soon disappear.
+The best of a Kilimanjaro 50B , in my opinion, isn’t reaching the top. Mountains are 51D as spiritual places by many cultures. This 52A is especially evident on Kilimanjaro as 53B go through five ecosystems(生态系统)in the space of a few kilometers. At the base is a rainforest. It ends abruptly at 3, 000 meters,54D lands of low growing plants. Further up, the weather 55A — low clouds envelope the mountainsides, which are covered with thick grass. I 56C twelve shades of green from where I stand. Above 4, 000 meters is the highland 57B : gravel(砾石), stones and rocks. 58D you climb into an arctic-like zone with 59A snow and the glaciers that may soon disappear.
 
-Does Kilimanjaro 60 its reputation as a crowded mountain with lines of tourists ruining the atmosphere of peace？I found the opposite to be true.
+Does Kilimanjaro 60B its reputation as a crowded mountain with lines of tourists ruining the atmosphere of peace？I found the opposite to be true.
 
 41. A. keep B. mix C. connect D. bring
 42. A. stories B. buildings C. crowds D. reporters

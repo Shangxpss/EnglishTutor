@@ -148,3 +148,39 @@ A. Unclear.
 B. Dismissive.  
 C. Doubtful.  
 D. Approving.
+
+On Oct. 11, hundreds of runners competed in a cross-country race in Minnesota. Melanie Bailey should have
+, 41D the course earlier than she did. Her 42A came because she was carrying a 43D across
+the finish line.
+
+As reported by a local newspaper, Bailey was more than two-thirds of the way through her 44A when a
+runner in front of her began crying in pain. She 45C to help her fellow runner, Danielle Lenoue. Bailey took
+her arm to see if she could walk forward with 46B . She couldn’t. Bailey then 47D to let Lenoue
+climb onto her back and carried her all the way to the finish line, then another 300 feet to where Lenoue could get
+48A attention.
+
+Once there, Lenoue was 49B and later taken to a hospital, where she learned that she had serious injuries
+in one of her knees. She would have struggled with extreme 50B to make it to that aid checkpoint without
+Bailey’s help.
+
+As for Bailey, she is more 51C about why her act is considered a big 52D . “She was just crying.
+I couldn’t 53A her,” Bailey told the reporter. “I feel like I was just doing the right thing.”
+
+Although the two young women were strangers before the 54C , they’ve since become friends. Neither
+won the race, but the 55B of human kindness won the day.
+
+41. A. designed B. followed C. changed D. finished
+42. A. delay B. chance C. trouble D. excuse
+43. A. judge B. volunteer C. classmate D. competitor
+44. A. race B. school C. town D. training
+45. A. agreed B. returned C. stopped D. promised
+46. A. courage B. aid C. patience D. advice
+47. A. went away B. stood up C. stepped aside D. bent down
+48. A. medical B. public C. constant D. equal
+49. A. interrupted B. assessed C. identified D. appreciated
+50. A. hunger B. pain C. cold D. tiredness
+51. A. worried B. ashamed C. confused D. discouraged
+52. A. game B. problem C. lesson D. deal
+53. A. leave B. cure C. bother D. understand
+54. A. ride B. test C. meet D. show
+55. A. secret B. display C. benefit D. exchange

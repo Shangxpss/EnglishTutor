@@ -1,8 +1,8 @@
 Living in Iowa and trying to become a photographer specializing in landscape (风景) can be quite a challenge, mainly because the corn state lacks geographical variation.
 
-Although landscapes in the Midwest tend to be quite similar, either farm fields or highways, sometimes I find distinctive character in the hills or lakes. To make some of my landscape shots, I have traveled up to four hours away to shoot within a 10-minute time frame. I tend to travel with a few of my friends to state parks or to the countryside to go on adventures and take photos along the way.
+Although landscapes in the Midwest tend to be quite similar, either farm fields or highways, sometimes I find distinctive character in the hills or lakes. **To make some of my landscape shots, I have traveled up to four hours away to shoot within a 10-minute time frame. I tend to travel with a few of my friends to state parks or to the countryside to go on adventures and take photos along the way.**
 
-Being at the right place at the right time is decisive in any style of photography. I often leave early to seek the right destinations so I can set up early to avoid missing the moment I am attempting to photograph. I have missed plenty of beautiful sunsets/sunrises due to being on the spot only five minutes before the best moment.
+**Being at the right place at the right time is decisive in any style of photography.** I often leave early to seek the right destinations so I can set up early to avoid missing the moment I am attempting to photograph. I have missed plenty of beautiful sunsets sunrises due to being on the spot only five minutes before the best moment.
 
 One time my friends and I drove three hours to Devil’s Lake, Wisconsin, to climb the purple quartz (石英) rock around the lake. After we found a crazy-looking road that hung over a bunch of rocks, we decided to photograph the scene at sunset. The position enabled us to look over the lake with the sunset in the background. We managed to leave this spot to climb higher because of the spare time until sunset. However, **we did not mark the route (路线) so we ended up almost missing the sunset entirely.** Once we found the place, it was stressful getting lights and cameras set up in the limited time. Still, **looking back on the photos, they are some of my best shots though they could have been so much better if I would have been prepared and managed my time wisely.**
 
@@ -47,9 +47,9 @@ B. Satisfying.
 C. Encouraging.  
 D. Comforting.
 
-What comes into your mind when you think of British food? Probably fish and chips, or a Sunday dinner of meat and two vegetables. But is British food really so uninteresting? Even though Britain has a reputation for less- than-impressive cuisine, it is producing more top class chefs who appear frequently on our television screens and whose recipe books frequently top the best seller lists.
+What comes into your mind when you think of British food? **Probably fish and chips, or a Sunday dinner of meat and two vegetables. But is British food really so uninteresting?** Even though Britain has a reputation for less- than-impressive cuisine, it is producing more top class chefs who appear frequently on our television screens and whose recipe books frequently top the best seller lists.
 
-It’s thanks to these TV chefs rather than any advertising campaign that Britons are turning away from meat-and-two-veg and ready-made meals and becoming more adventurous in their cooking habits. It is recently reported that the number of those sticking to a traditional diet is slowly declining and around half of Britain’s consumers would like to change or improve their cooking in some way. There has been a rise in the number of students applying for food courses at UK universities and colleges. **It seems that TV programmes have helped change what people think about cooking.**
+**It’s thanks to these TV chefs rather than any advertising campaign that Britons are turning away from meat-and-two-veg and ready-made meals and becoming more adventurous in their cooking habits.** It is recently reported that the number of those sticking to a traditional diet is slowly declining and around half of Britain’s consumers would like to change or improve their cooking in some way. There has been a rise in the number of students applying for food courses at UK universities and colleges. **It seems that TV programmes have helped change what people think about cooking.**
 
 According to a new study from market analysts, 1 in 5 Britons say that watching cookery programmes on TV has encouraged them to try different food. **Almost one third say they now use a wider variety of ingredients (配料) than they used to**, and just under 1 in 4 say they now buy better quality ingredients than before. One in four adults say that TV chefs have made them much more confident about expanding their cookery knowledge and skills, and young people are also getting more interested in cooking. The UK’s obsession (痴迷) with food is reflected through television scheduling. Cookery shows and documentaries about food are broadcast more often than before. With an increasing number of male chefs on TV, it’s no longer “uncool” for boys to like cooking.
 
@@ -92,7 +92,7 @@ D. Studies of big eaters.
 
 If you want to tell the history of the whole world, a history that does not privilege one part of humanity, you cannot do it through texts alone, because only some of the world has ever had texts, while most of the world, for most of the time, has not. Writing is one of humanity’s later achievements, and until fairly recently even many. **literate (有文字的) societies recorded their concerns not only in writing but in things.**
 
-Ideally a history would bring together texts and objects, and some chapters of this book are able to do just that, but in many cases we simply can’t. The clearest example of this between literate and non-literate history is perhaps the first conflict, at Botany Bay, between Captain Cook’s voyage and the Australian Aboriginals. From the English side, we have scientific reports and the captain’s record of that terrible day. From the Australian side, we have only a wooden shield (盾) dropped by a man in flight after his first experience of gunshot. If we want to reconstruct what was actually going on that day, the shield must be questioned and interpreted as deeply and strictly as the written reports.
+Ideally a history would bring together texts and objects, and some chapters of this book are able to do just that, **but in many cases we simply can’t.** The clearest example of this between literate and non-literate history is perhaps the first conflict, at Botany Bay, between Captain Cook’s voyage and the Australian Aboriginals. From the English side, we have scientific reports and the captain’s record of that terrible day. From the Australian side, we have only a wooden shield (盾) dropped by a man in flight after his first experience of gunshot. **If we want to reconstruct what was actually going on that day, the shield must be questioned and interpreted as deeply and strictly as the written reports.**
 
 In addition to the problem of miscomprehension from both sides, there are victories accidentally or deliberately twisted, especially when only the victors know how to write. Those who are on the losing side often have only their things to tell their stories. The Caribbean Taino, the Australian Aboriginals, the African people of Benin and the Incas, all of whom appear in this book, can speak to us now of their past achievements most powerfully through the objects they made: a history told through things gives them back a voice. When we consider contact (联系) between literate and non-literate societies such as these, all our first-hand accounts are necessarily twisted, only one half of a dialogue. If we are to find the other half of that conversation, we have to read not just the texts, but the objects.
 
@@ -132,3 +132,32 @@ A. How Maps Tell Stories of the World
 B. A Short History of Australia  
 C. A History of the World in 100 Objects  
 D. How Art Works Tell Stories
+
+To become the Olympic champion in the individual (个人) all-around event, Gabby Douglas had to leave everything she 41D best. She had to 42B her bedroom in Virginia. She had to say 43A to her two dogs and to the beach, where she loved to 44C waves on her board. But it was 45B to take the leap (飞跃), however 46B it would be. Even at 14, Douglas knew that. So she 47D about 1,200 miles away from home, to 48D with a coach from China. She lived with a family she had never 49A and everything was new to her.
+
+As it turned out, Douglas did 50C what she needed to do to become Olympic champion when she 51A two Russians. The Chinese coach 52B Douglas into one of the best gymnasts in the 53A , helping her skyrocket from an 54C member of the national team to the top of the sport. By 55C the Olympic all-around title, she became the first black woman to do so. She 56D the competition from beginning to end. She said she had felt 57A all along that she would win.
+
+Not so long ago, Martha Karoly the coordinator (联络人) of the women’s national team, did not think Douglas had what it 58D to be an Olympian. As time went by, she thought 59B that she could make the London Games — and win.
+
+“I’m going to inspire so many people,” she said. “I’m ready to 60A .” And shine she did.
+
+41. A. tried B. thought C. judged D. knew
+42. A. take up B. pack up C. clean up D. do up
+43. A. goodbye B. hello C. thanks D. no
+44. A. cause B. observe C. ride D. strike
+45. A. common B. time C. fun D. tough
+46. A. breathtaking B. heartbreaking C. eye-catching D. head-spinning
+47. A. dropped out B. moved on C. pulled over D. went off
+48. A. reason B. talk C. compete D. train
+49. A. met B. helped C. understood D. needed
+50. A. approximately B. gradually C. exactly D. possibly
+51. A. defeated B. pleased C. respected D. assisted
+52. A. forced B. transformed C. persuaded D. put
+53. A. world B. city C. team D. state
+54. A. amateur B. elected C. average D. enthusiastic
+55. A. clarifying B. defending C. winning D. demanding
+56. A. followed B. organized C. watched D. led
+57. A. confident B. nervous C. excited D. uneasy
+58. A. viewed B. appeared C. mattered D. took
+59. A. now and then B. more and more C. far and wide D. on and on
+60. A. shine B. fly C. dance D. score

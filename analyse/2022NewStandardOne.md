@@ -143,3 +143,38 @@ A. It is key to effective communication.
 B. It contributes much to cultural diversity.  
 C. It is a complex and dynamic system.  
 D. It drives the evolution of human beings.
+
+My husband, our children and I have had wonderful camping experiences over the past ten
+years.
+
+Some of our 21C are funny, especially from the early years when our children were
+little. Once, we 22A along Chalk Creek. I was 23D that our 15-month-old boy would
+fall into the creek (小溪). I tied a rope around his waist to keep him near to our spot. That lasted
+about ten minutes. He was 24C, and his crying let the whole camp ground know it. So
+25B tying him up, I just kept a close eye on him. It 26A — he didn’t end up in the
+creek. My three-year-old, however, did.
+
+Another time, we rented a boat in Vallecito Lake. The sky was clear when we 27D, but
+storms move in fast in the mountains, and this one quickly 28B our peaceful morning trip. The 29A picked up and thunder rolled. My husband stopped fishing to 30C the
+motor. Nothing. He tried again. No 31A. We were stuck in the middle of the lake with a
+dead motor. As we all sat there 32D, a fisherman pulled up, threw us a rope and towed
+(拖) us back. We were 33C.
+
+Now, every year when my husband pulls our camper out of the garage, we are filled with a
+sense of 34D, wondering what camping fun and 35B we will experience next.
+
+21. A. ideas B. jokes C. memories D.discoveries
+22. A. camped B. drove C. walked D. cycled
+23. A. annoyed B. surprised C. disappointed D. worried
+24. A. unhurt B. unfortunate C. uncomfortable D. unafraid
+25. A. due to B. instead of C. apart from D. as for
+26. A. worked B. happened C. mattered D. changed
+27. A. signed up B. calmed down C. checked out D. headed off
+28. A. arranged B. interrupted C. completed D. recorded
+29. A. wind B. noise C. temperature D. speed
+30. A. find B. hide C. start D. fix
+31. A. luck B. answer C. wonder D. signal
+32. A. patiently B. tirelessly C. doubtfully D.helplessly
+33. A. sorry B. brave C. safe D. right
+34. A. relief B. duty C. pride D.excitement
+35. A. failure B. adventure C. performance D. conflict

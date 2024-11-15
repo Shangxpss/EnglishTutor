@@ -191,14 +191,13 @@ B. How slim we want to be.
 C. How we perceive others.
 D. How we feel about the food.
 
-Molai grew up in a tiny village in India. The village lay near some wetlands which became his second 21C . He learned the value and beauty of 22A there from a very young age. When he was 16, Molai began to notice something 23C happening around his home. A flood had hit the area earlier that year and the 24D it caused had driven away a number of birds. 25C, the number of snakes had declined as well. He 26 that it was because there weren’t enough trees to protect them from the 27C. The solution, of course, was to plant trees so the animals could seek 28D during the daytime.
-He turned to the 29C department for help but was told that nothing would grow there. However, Molai went
-looking on his own and 30B a nearby island where he began to plant trees.
-31 young plants in the dry season was 32 for a lone boy. Molai built at the
-33B of each sapling(幼树)a bamboo platform, where he placed earthen pots with small holes
-to 34D rainwater. The water would then drip(滴落)on the plants below.
-Molai 35D to plant trees for the next 37 years. His efforts have resulted in 1,360 acres of
-naturally-grown land that has become home to many plants and animals.
+Molai grew up in a tiny village in India. The village lay near some wetlands which became his second 21C . He learned the value and beauty of 22A there from a very young age.
+
+When he was 16, Molai began to notice something 23C happening around his home. A flood had hit the area earlier that year and the 24D it caused had driven away a number of birds. 25A, the number of snakes had declined as well. He 26B that it was because there weren’t enough trees to protect them from the 27B. The solution, of course, was to plant trees so the animals could seek 28D during the daytime.He turned to the 29C department for help but was told that nothing would grow there. However, Molai went looking on his own and 30B a nearby island where he began to plant trees.
+
+31C young plants in the dry season was 32A for a lone boy. Molai built at the 33B of each sapling(幼树)a bamboo platform, where he placed earthen pots with small holes to 34D rainwater. The water would then drip(滴落)on the plants below.
+
+Molai 35D to plant trees for the next 37 years. His efforts have resulted in 1,360 acres of naturally-grown land that has become home to many plants and animals.
 
 21. A. dream B. job C. home D. choice
 22. A. nature B. youth C. culture D. knowledge

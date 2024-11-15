@@ -134,3 +134,29 @@ A. Language study.
 B. Environmental conservation.  
 C. Public education.  
 D. Intercultural communication.
+
+In April last year, I saw a post on the PNP (Pilots N Paws) website from a family in Topeka. They had to move to Virginia but they were on a very tight 41B . They could not afford to pay for 42D for their dog, Tiffy, and 43A wanted to take her with them.
+
+It just 44C that I was planning another PNP flight with another pilot, Karen, who 45B to take Tiffy from Kansas City to Virginia. What I was to do was fly to Topeka to 46D Tiffy.
+
+When I met Tiffy’s owners, they seemed very 47B . George, the husband, was trying to be calm, but I could tell this was 48A for him, having to leave his dog to a 49C and trust that everything would 50B .
+
+After some goodbyes, I asked George and his wife to help me 51D Tiffy into the plane. I promised to take care of Tiffy and 52A them as soon as we got to Kansas City.
+
+The flight was 53D , and Tiffy was a great passenger. The next day, she 54C with Karen and made it back to George in Virginia within a few days. He was so 55A and sent me a nice e-mail with pictures. It felt great to know that I had helped bring this family together again.
+
+41. A. turn B. budget C. schedule D. connection
+42. A. food B. shelter C. medicine D. transportation
+43. A. desperately B. temporarily C. secretly D. originally
+44. A. appeared B. proved C. happened D. showed
+45. A. waited B. offered C. hurried D. failed
+46. A. see off B. look for C. hand over D. pick up
+47. A. confused B. nervous C. annoyed D. curious
+48. A. hard B. fine C. common D. lucky
+49. A. coworker B. passenger C. stranger D. neighbor
+50. A. speed up B. work out C. come back D. take off
+51. A. feed B. follow C. change D. load
+52. A. call B. join C. leave D. serve
+53. A. unnecessary B. unexpected C. unavoidable D. uneventful
+54. A. returned B. fought C. flew D. agreed
+55. A. thankful B. generous C. proud D. sympathetic

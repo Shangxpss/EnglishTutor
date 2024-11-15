@@ -135,3 +135,41 @@ A. Can we grow more glowing plants?
 B. How do we live with glowing plants?
 C. Could glowing plants replace lamps?
 D. How are glowing plants made pollution-free?
+
+Since our twins began learning to walk, my wife and I have kept telling them that our sliding glass door is just
+a window. The 41C is obvious. If we 42A it is a door, they’ll want to go outside 43B. It will drive
+us crazy. The kids apparently know the 44D. But our insisting it’s 45A a window has kept them from
+46D millions of requests to open the door.
+
+I hate lying to the kids. One day they’ll 47C and discover that everything they’ve always known about
+windows is a 48B.I wonder if 49A should always tell the truth no matter the 50D . I have a
+very strong 51B that the lie we’re telling is doing 52C damage to our children. Windows and
+doors have 53B metaphorical(比喻) meanings. I’m telling them they can’t open what they absolutely
+know is a door. What if later in 54A they come to a metaphorical door, like an opportunity(机会) of
+some sort, and 55D opening the door and taking the opportunity, they just 56B it and wonder,
+＂What if it isn’t a door?＂ That is, ＂What if it isn’t a 57A opportunity?＂
+
+Maybe it’s an unreasonable fear. But the 58C is that I shouldn’t lie to my kids. I should just
+59D repeatedly having to say, ＂No. We can’t go outside now.＂ Then when they come to other doors in
+life, be they real or metaphorical, they won’t 60C to open them and walk through.
+
+41. A. relief B. target C. reason D. case
+42. A. admit B. believe C. mean D. realize
+43. A. gradually B. constantly C. temporarily D. casually
+44. A. result B. danger C. method D. truth
+45. A. merely B. slightly C. hardly D. partly
+46. A. reviewing B. approving C. receiving D. attempting
+47. A. win out B. give up C. wake up D. stand out
+48. A. dream B. lie C. fantasy D. fact
+49. A. parents B. twins C. colleagues D. teachers
+50. A. restrictions B. explanations C. differences D. consequences
+51. A. demand B. fear C. desire D. doubt
+52. A. physical B. biological C. spiritual D. behavioral
+53. A. traditional B. important C. double D. original
+54. A. life B. time C. reply D. history
+55. A. by comparison with B. in addition to C. regardless of D. instead of
+56. A. get hold of B. stare at C. knock on D. make use of
+57. A. real B. Typical C. similar D. limited
+58. A. safety rule B. comfort zone C. bottom line D. top secret
+59. A. delay B. regret C. enjoy D. accept
+60. A. hurry B. decide C. hesitate D. intend
