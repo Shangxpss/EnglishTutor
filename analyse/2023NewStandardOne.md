@@ -2,7 +2,7 @@ When John Todd was a child, he loved to explore the woods around his house, obse
 
 After studying agriculture, medicine, and fisheries in college, **John went back to observing nature and asking questions.** Why can certain plants trap harmful bacteria (细菌)? Which kinds of fish can eat cancer-causing chemicals? With the right combination of animals and plants, he figured, maybe he could clean up waste the way nature did. He decided to build what he would later call an eco-machine.
 
-The task John set for himself was to remove harmful substances from some sludge (污泥). First, he constructed a series of clear fiberglass tanks connected to each other. Then he went around to local ponds and streams and brought back some plants and animals. He placed them in the tanks and waited. Little by little, these different kinds of life got used to one another and formed their own ecosystem. After a few weeks, John added the sludge.
+**The task John set for himself was to remove harmful substances from some sludge (污泥).** First, he constructed a series of clear fiberglass tanks connected to each other. Then he went around to local ponds and streams and brought back some plants and animals. He placed them in the tanks and waited. Little by little, these different kinds of life got used to one another and formed their own ecosystem. After a few weeks, John added the sludge.
 
 He was amazed at the results. The plants and animals in the eco-machine took the sludge as food and began to eat it! Within weeks, it had all been digested, and all that was left was pure water.
 
