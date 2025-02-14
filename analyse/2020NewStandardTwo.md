@@ -56,7 +56,7 @@ Nutria were brought there from Argentina by fur farmers and let go into the wild
 
 The fur trade kept nutria in check for decades，but when the market for nutria collapsed in the late 1980s，the cat-sized animals multiplied like crazy. Biologist Edmond Mouton runs the nutria control program for Louisiana. He says it’s not easy to convince people that nutria fur is green, but he has no doubt about it. Hunters bring in more than 300,000 nutria tails a year, so part of Mouton’s job these days is trying to promote fur.
 
-Then there’s Righteous Fur and its unusual fashion. Model Paige Morgan says，”To give people a guilt-free option that they can wear without someone throwing paint on them-1 think that’s going to be a massive thing, at least here in New York.” Designer Jennifer Anderson admits it took her a while to come around to the opinion that using nutria fur for her creations is morally acceptable. She trying to come up with a lable to attach to nutria fashions to show it is eco-friendly.
+Then there’s Righteous Fur and its unusual fashion. Model Paige Morgan says，”To give people a guilt-free option that they can wear without someone throwing paint on them--think that’s going to be a massive thing, at least here in New York.” Designer Jennifer Anderson admits it took her a while to come around to the opinion that using nutria fur for her creations is morally acceptable. She trying to come up with a lable to attach to nutria fashions to show it is eco-friendly.
 
 What is the purpose of the fashion shows in New Orleans and Brooklyn?
 

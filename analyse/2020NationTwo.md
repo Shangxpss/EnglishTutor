@@ -34,26 +34,25 @@ B. Secret Agent Camp.
 C. Culinary Camp
 D. Street Art Camp.
 
-Theend of the school year was in sight and spirits were high. I was back teachingafter an absence of 15 years, dealing with the various kinds of “forbiddenfruit” that come out of book bags. Now was the spring of the water pistol.
+The end of the school year was in sight and spirits were high. I was back teaching after an absence of 15 years, dealing with the various kinds of “forbidden fruit” that come out of book bags. Now was the spring of the water pistol.
 
-Idecided to think up a method of dealing with forbidden fruit.
+I decided to think up a method of dealing with forbidden fruit.
 
-“Pleasebring that pistol to me,” I said. “I’m going to put it in my Grandma’s Box.”
+“Please bring that pistol to me,” I said. “I’m going to put it in my Grandma’s Box.”
 
-“What’sthat?” they asked.
+“What’s that?” they asked.
 
-“It’sa large wooden chest full of toys for my grandchildren,” I replied,
+“It’s a large wooden chest full of toys for my grandchildren,” I replied,
 
-“Youdon’t have grandchildren,” someone said.
+“You don’t have grandchildren,” someone said.
 
-“Idon’t now.” I replied. “But someday I will. When I do, my box will be full of wonderful
-things for them.”
+“I don’t now.” I replied. “But someday I will. When I do, my box will be full of wonderful things for them.”
 
 My imaginary Grandma’s Box worked like magic that spring, and later. Sometimes.students would ask me to describe all the things I had in it. Then I would try to remember the different possessions I supposedly had taken away—since I seldom actually kept them. Usually the offender would appear at the end of the day, and I would return the belonging.
 
-The-yearswent by, and my first grandchild Gordon was born. I shared my joy with that year’sclass. Then someone said, “Now you can use your Grandma’s Box.” From then on instead of coming to ask their possessions back, the students would say, “That’sokay. Put it in your Grandma’s Box for Gordon.”
+The-years went by, and my first grandchild Gordon was born. I shared my joy with that year’sclass. Then someone said, “Now you can use your Grandma’s Box.” From then on instead of coming to ask their possessions back, the students would say, “That’s okay. Put it in your Grandma’s Box for Gordon.”
 
-I loved talking about the imaginary box, not only with my students but also with my own children. They enjoyed hearing about all the forbidden fruit I had collected. Then one Christmas I received a surprise gift — a large, beautifullymade wooden chest. My son Bruce had made my Grandma’s Box a reality.
+I loved talking about the imaginary box, not only with my students but also with my own children. They enjoyed hearing about all the forbidden fruit I had collected. Then one Christmas I received a surprise gift — a large, beautifully made wooden chest. My son Bruce had made my Grandma’s Box a reality.
 
 What was the author’s purpose in having the conversation with the students?
 
@@ -91,7 +90,7 @@ B. She is a strict and smart teacher.
 C. She loves doing woodwork.  
 D. She is a responsible grandmother
 
-InMay 1987 the Golden Gate Bridge had a 50th birthday party. The bridge was closed to motor traffic so people could enjoy a walk across it. Organizers expected perhaps 50,000 people to show up. Instead, as many as 800, 000 crowded the roads to the bridge. By the time 250,000 were on the bridge, engineers noticed something terrible：the roadway was flattening under what turned out to be the heaviest load it had ever been asked to carry. Worse, it was beginning to sway（晃动）. The authorities closed access to the bridge and tens of thousands of people made their way back to land. A disaster was avoided.
+In May 1987 the Golden Gate Bridge had a 50th birthday party. The bridge was closed to motor traffic so people could enjoy a walk across it. Organizers expected perhaps 50,000 people to show up. Instead, as many as 800, 000 crowded the roads to the bridge. By the time 250,000 were on the bridge, engineers noticed something terrible：the roadway was flattening under what turned out to be the heaviest load it had ever been asked to carry. Worse, it was beginning to sway（晃动）. The authorities closed access to the bridge and tens of thousands of people made their way back to land. A disaster was avoided.
 
 The story is one of scores in To Forgive Design：Understanding Failure, a book that is at once a love letter to engineering and a paean（赞歌）to its breakdowns. Its author, Dr. Henry Petroski, has long been writing about disasters. In this book, he includes the loss of the spaceshuttles（航天飞机）Challenger and Columbia, and the sinking of the Titanic.
 
@@ -142,26 +141,12 @@ Can you believe that a single bush（灌木丛）in the Amazon may have more spe
 than the whole of Britain! About 480 varieties of trees may be found in just onehectare of
 rainforest.
 
-Rainforests are the lungs of the planet-storing vast quantities of carbon dioxide
-and producing a significant amount of the world’s oxygen. Rainforests have their
-own perfect system for ensuring their own survival; the tall trees make a canopy（树冠层）
-of branches and leaves which protect themselves, smaller plants,and the forest animals
+Rainforests are the lungs of the planet-storing vast quantities of carbon dioxide and producing a significant amount of the world’s oxygen. Rainforests have their own perfect system for ensuring their own survival; the tall trees make a canopy（树冠层） of branches and leaves which protect themselves, smaller plants,and the forest animals
 from heavy rain, intense dry heat from the sun and strong winds.
 
-Amazingly,the trees grow in such a way that their leaves and branches, although
-close together, never actually touch those of another tree. Scientists think this is the plants’
-way to prevent the spread of any tree diseases and make life more difficult for leaf-eating
-insects like caterpillars. To survive in the forest,animals must climb, jump or fly across the
-gaps. The ground floor of the forestis not all tangled leaves and bushes, like in films, but
-is actually fairlyclear. It is where dead leaves turn into food for the trees and other
-forestlife.
+Amazingly,the trees grow in such a way that their leaves and branches, although close together, never actually touch those of another tree. Scientists think this is the plants’way to prevent the spread of any tree diseases and make life more difficult for leaf-eating insects like caterpillars. To survive in the forest,animals must climb, jump or fly across the gaps. The ground floor of the forestis not all tangled leaves and bushes, like in films, but is actually fairlyclear. It is where dead leaves turn into food for the trees and other forestlife.
 
-They are not called rainforests for nothing! Rainforests can generate 75%of theirown
-rain. At least 80 inches of rain a year is normal-and in some areas theremay be as much
-as 430 inches of rain annually. This is real rain-your umbrellamay protect you in a shower,
-but it won’t keep you dry if there is a fullrainstorm. In just two hours, streams can rise ten to
-twenty feet. The humidity（湿气）of large rainforests contributes to the formation of
-raincloudsthat may travel to other countries in need of rain.
+They are not called rainforests for nothing! Rainforests can generate 75% of their own rain. At least 80 inches of rain a year is normal-and in some areas there may be as much as 430 inches of rain annually. This is real rain-your umbrellamay protect you in a shower, but it won’t keep you dry if there is a full rainstorm. In just two hours, streams can rise ten to twenty feet. The humidity（湿气）of large rainforests contributes to the formation of rainclouds that may travel to other countries in need of rain.
 
 What can we learn about rainforests from the first paragraph?
 

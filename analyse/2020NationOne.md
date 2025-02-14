@@ -89,26 +89,13 @@ B. Love breaks down barriers.
 C. Hard work pays off.
 D. Education is the key to success.
 
-In the mid-1990s Tom Bissell taught English as a volunteer in Uzbekistan. He left after seven months,
-physically broken and having lost his mind. A few years later, still attracted to the country, he returned to Uzbekistan
-to write an article about the disappearance of the Aral Sea.
+In the mid-1990s Tom Bissell taught English as a volunteer in Uzbekistan. He left after seven months, physically broken and having lost his mind. A few years later, still attracted to the country, he returned to Uzbekistan to write an article about the disappearance of the Aral Sea.
 
-His visit, however, ended up involving a lot more than that. Hence this book, Chasing the Sea: Lost Among the
-Ghosts of Empire in Central Asia, which talks about a road trip from Tashkent to Karakalpakstan, where millions of
-lives have been destroyed by the slow drying up of the sea. It is the story of an American travelling to a strange land,
-and of the people he meets on his way: Rustam, his translator, a lovely 24-year-old who picked up his colorful
-English in California, Oleg and Natasha, his hosts in Tashkent, and a string of foreign aid workers.
+His visit, however, ended up involving a lot more than that. Hence this book, Chasing the Sea: Lost Among the Ghosts of Empire in Central Asia, which talks about a road trip from Tashkent to Karakalpakstan, where millions of lives have been destroyed by the slow drying up of the sea. It is the story of an American travelling to a strange land, and of the people he meets on his way: Rustam, his translator, a lovely 24-year-old who picked up his colorful English in California, Oleg and Natasha, his hosts in Tashkent, and a string of foreign aid workers.
 
-This is a quick look at life in Uzbekistan, made of friendliness and warmth, but also its darker side of society. In
-Samarkand, Mr Bissell admires the architectural wonders, while on his way to Bukhara he gets a taste of police
-methods when suspected of drug dealing. In Ferghana, he attends a mountain funeral(葬礼)followed by a strange
-drinking party. And in Karakalpakstan, he is saddened by the dust storms, diseases and fishing boats stuck miles from
-the sea.
+This is a quick look at life in Uzbekistan, made of friendliness and warmth, but also its darker side of society. In Samarkand, Mr Bissell admires the architectural wonders, while on his way to Bukhara he gets a taste of police methods when suspected of drug dealing. In Ferghana, he attends a mountain funeral(葬礼)followed by a strange drinking party. And in Karakalpakstan, he is saddened by the dust storms, diseases and fishing boats stuck miles from the sea.
 
-Mr Bissell skillfully organizes historical insights and cultural references, making his tale a well-rounded picture
-of Uzbekistan, seen from Western eyes. His judgment and references are decidedly American, as well as his delicate
-stomach. As the author explains, this is neither a travel nor a history book, or even a piece of reportage. Whatever it is,
-the result is a fine and vivid description of the purest of Central Asian traditions.
+Mr Bissell skillfully organizes historical insights and cultural references, making his tale a well-rounded picture of zbekistan, seen from Western eyes. His judgment and references are decidedly American, as well as his delicate stomach. As the  author explains, this is neither a travel nor a history book, or even a piece of reportage. Whatever it is, the result is a fine and vivid description of the purest of Central Asian traditions.
 
 What made Mr Bissell return to Uzbekistan?
 
@@ -145,27 +132,15 @@ B. To explain a cultural phenomenon.
 C. To remember a writer.
 D. To recommend a travel destination.
 
-According to a recent study in the Journal of Consumer Research, both the size and consumption habits of our
-eating companions can influence our food intake. And contrary to existing research that says you should avoid eating
-with heavier people who order large portions(份), it's the beanpoles with big appetites you really need to avoid.
+According to a recent study in the Journal of Consumer Research, both the size and consumption habits of our eating companions can influence our food intake. And contrary to existing research that says you should avoid eating with heavier people who order large portions(份), it's the beanpoles with big appetites you really need to avoid.
 
-To test the effect of social influence on eating habits, the researchers conducted two experiments. In the first, 95
-undergraduate women were individually invited into a lab to ostensibly(表面上)participate in a study about movie
-viewership. Before the film began, each woman was asked to help herself to a snack. An actor hired by the
-researchers grabbed her food first. In her natural state, the actor weighed 105 pounds. But in half the cases she wore a
-specially designed fat suit which increased her weight to 180 pounds.
+To test the effect of social influence on eating habits, the researchers conducted two experiments. In the first, 95 undergraduate women were individually invited into a lab to ostensibly(表面上)participate in a study about movie viewership. Before the film began, each woman was asked to help herself to a snack. An actor hired by the researchers grabbed her food first. In her natural state, the actor weighed 105 pounds. But in half the cases she wore a specially designed fat suit which increased her weight to 180 pounds.
 
-Both the fat and thin versions of the actor took a large amount of food. The participants followed suit, taking
-more food than they normally would have. However, they took significantly more when the actor was thin.
+Both the fat and thin versions of the actor took a large amount of food. The participants followed suit, taking more food than they normally would have. However, they took significantly more when the actor was thin.
 
-For the second test, in one case the thin actor took two pieces of candy from the snack bowls. In the other case,
-she took 30 pieces. The results were similar to the first test: the participants followed suit but took significantly more
-candy when the thin actor took 30 pieces.
+For the second test, in one case the thin actor took two pieces of candy from the snack bowls. In the other case, she took 30 pieces. The results were similar to the first test: the participants followed suit but took significantly more candy when the thin actor took 30 pieces.
 
-The tests show that the social environment is extremely influential when we're making decisions. If this fellow
-participant is going to eat more, so will I. Call it the “I’ll have what she's having” effect. However, we'll adjust the
-influence. If an overweight person is having a large portion, I'll hold back a bit because I see the results of his eating
-habits. But if a thin person eats a lot, I'll follow suit. If he can eat much and keep slim, why can't I?
+The tests show that the social environment is extremely influential when we're making decisions. If this fellow participant is going to eat more, so will I. Call it the “I’ll have what she's having” effect. However, we'll adjust the influence. If an overweight person is having a large portion, I'll hold back a bit because I see the results of his eating habits. But if a thin person eats a lot, I'll follow suit. If he can eat much and keep slim, why can't I?
 
 What is the recent study mainly about?
 A. Food safety.
